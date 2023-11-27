@@ -83,6 +83,7 @@ nav h2 {
 }
 /* Avatar */
 .hero-banner .avatar{
+  background-image: url("/assets/images/avatar.jpg");
   width: 150px;
   height: 150px;
   border-radius: 50%;

@@ -1,91 +1,37 @@
-# Unit 01 Mini-Project: Landing Page
+# Mini- Project
 
-In this mini-project, you will build a landing page using HTML and CSS. While you will be responsible for your own landing page, you will work in a group to brainstorm and share ideas.
+My first portfolio
 
-## Instructions
+## About Me
 
-Work in your group to implement the following user stories:
+This section provides a brief introduction about myself, including my background, education, and a summary of my professional experience. It may also include a profile picture to personalize the introduction.
 
-* As a client, I want to view a single webpage that collects a visitor's contact information.
+## Projects
 
-* As a client, I want the landing page to have a header and footer.
+In this section, I showcase some of my notable projects. Each project is displayed with a link to view more details. Projects are using CSS to make it visually appealing.
 
-* As a client, I want the landing page to have an image with a caption.
+## Work Samples
 
-* As a client, I want the landing page to have a contact form.
+This section highlights samples of my professional work. It could include links to completed projects. The purpose is to display my expertise in executing tasks relevant to my field.
 
-* As a client, I want the landing page to have a polished and accessible UI.
+## Installation
 
-## Acceptance Criteria
+N/A
 
-* It's done when the page uses semantic HTML elements.
+## Contact
 
-* It's done when the page uses universal, element, and class selectors in CSS.
+The last section contains my contact information. Interested visitors can find my email address, and Github profile.
 
-* It's done when the page features at least three colors in the design.
+## Contributions
 
-* It's done when the page uses a single font and font family for all text.
+I welcome contributions to this portfolio repository. If you have any suggestions, improvements, or feedback, please feel free to open an issue or submit a pull request. Your suggestions will help me enhance my portfolio and improve its design and functionality.
 
-* It's done when the page uses at least two heading elements (`<h1>` through `<h6>`).
+## Credit
 
-* It's done when the header is fixed to the top of the page on scroll.
+N/A
 
-* It's done when the header contains a navigation bar with three links that display inline, including a contact link.
+## License
 
-* It's done when, if the contact link is clicked, the page jumps directly to the contact form.
+This portfolio is licensed under the [MIT License](https://opensource.org/licenses/MIT). You are free to use the code and content as a reference or inspiration for your own projects, but please give appropriate credit and attribute the original work.
 
-* It's done when the contact form includes `input` elements for name and email.
-
-* It's done when the contact form includes a Send button.
-
-* It's done when the image includes a descriptive `alt` attribute.
-
-* It's done when the page is deployed to GitHub Pages.
-
-## 💡 Notes
-
-Follow these instructions to deploy your project to GitHub Pages:
-
-1. Create a new repository on your GitHub account and clone it to your computer.
-
-2. When you're ready to deploy, use the `git add`, `git commit`, and `git push` commands to save and push your code to your GitHub repository.
-
-3. Navigate to your GitHub repository in the browser and then select the Settings tab on the right side of the page.
-
-4. On the Settings page, select Pages on the left side of the page. On the GitHub Pages screen, choose `main` in the dropdown under Source.
-
-5. Navigate to <your-github-username.github.io/your-repository-name> and you will find that your new webpage has gone live! For example, if your GitHub username is "lernantino" and the project is "css-demo-site", then your URL would be <lernantino.github.io/css-demo-site>.
-
-You can also refer to this [YouTube video on enabling GitHub Pages](https://youtu.be/P4Mu1t5rIXg) for more guidance.
-
-> **Important**: It might take a few minutes for GitHub pages to display your site correctly. If your project does not deploy or display correctly, check that all file paths in your application are relative and use the right casing. GitHub is case-sensitive, an inccorect capital or lowercase letter could cause problems in deployment.
-
-## 💡 Hints
-
-Refer to the documentation:
-
-* [MDN Web Docs on HTML elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
-
-* [MDN Web Docs on color](https://developer.mozilla.org/en-US/docs/Web/CSS/color)
-
-* [MDN Web Docs on font](https://developer.mozilla.org/en-US/docs/Web/CSS/font)
-
-* [MDN Web Docs on HTML section heading elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements)
-
-* [MDN Web Docs on how to structure a web form](https://developer.mozilla.org/en-US/docs/Learn/Forms/How_to_structure_a_web_form)
-
-* [MDN Web Docs on the button element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/button)
-
-* [MDN Web Docs on the figure element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figure)
-
-## 🏆 Bonus
-
-If you have completed this activity, work through the following challenge with your group to further your knowledge:
-
-* How can CSS be used to apply a different style to an `<a>` element when a cursor points at it?
-
-Use [Google](https://www.google.com) or another search engine to research this.
-
----
-
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+Thank you for visiting my portfolio! I hope you enjoy exploring my projects and work samples. Feel free to reach out to me if you have any questions or would like to discuss collaboration opportunities.

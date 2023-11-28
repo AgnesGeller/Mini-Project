@@ -143,8 +143,8 @@ main {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 20px;
-}
 
+  
 /* Work Card */
 .work-card {
   border: 5px solid rgb(58, 163, 192);
@@ -156,7 +156,7 @@ main {
     position: relative;
 }
 .work-card:hover {
-  filter: grayscale(0);
+  filter:grayscale(0);
 }
 .work-card-full-width {
   grid-column: span 2;

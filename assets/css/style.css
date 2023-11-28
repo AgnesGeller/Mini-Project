@@ -189,8 +189,8 @@ main {
 }
 
 /* Mobile view */
-@media (max-width: 767px) {
-  .work-card-description {
+@media (max-width: 767px) 
+    .work-card-description {
     font-size: .8rem;
   }
   .page-section {

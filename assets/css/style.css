@@ -189,7 +189,7 @@ main {
 }
 
 /* Mobile view */
-@media (max-width: 767px) 
+@media (max-width: 767px) {
     .work-card-description {
     font-size: .8rem;
   }
